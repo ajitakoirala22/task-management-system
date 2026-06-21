@@ -53,7 +53,6 @@ task-management-system/
 From the project folder:
 
 ```bash
-cd /Users/vishalshivakumarkanakamamidi/Desktop/ajproj/task-management-system
 npm install
 ```
 
