@@ -21,7 +21,7 @@ PulseBoard is a React-based task management system built with Create React App. 
 
 ## Demo Video
 
-<video src="./screen_record.mp4" controls width="100%"></video>
+[![Screen recording](./preview.png)](./screen_record.mp4)
 
 If your GitHub view does not render the video inline, open the file directly here:
 
